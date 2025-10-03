@@ -15,7 +15,12 @@ This repository documents my journey of learning **modern frontend development**
 ### ⚡ Animations & Interactions  
 - **GSAP (GreenSock Animation Platform):**  
   - Element animations, timelines, stagger effects.  
-  - Motion design best practices.  
+  - Motion design best practices.
+  - ex.
+  - <img width="935" height="482" alt="image" src="https://github.com/user-attachments/assets/f50b1f1a-19aa-4e0f-ba86-4d6568bd75ee" />
+  - link - https://pdfresumebucket.s3.ap-south-1.amazonaws.com/gsap/index.html
+  - deployed on AWS platfrom.
+
 
 - **ScrollTrigger (GSAP Plugin):**  
   - Triggering animations on scroll.  
@@ -31,15 +36,8 @@ This repository documents my journey of learning **modern frontend development**
 - Responsive layouts with **CSS Grid & Flexbox**.  
 - Clean and reusable frontend components.  
 - **JavaScript DOM manipulation** fundamentals.  
-- Version control with Git & GitHub.  
+- Version control with Git & GitHub.
+-  AWS services for deployment.
 
 ---
 
-## 🧩 Project Goals  
-- Build **mini-projects**: animated landing pages, scroll interactions, and creative demos.  
-- Improve design sense with **UI/UX principles**.  
-- Create **portfolio-ready projects** showcasing animations & smooth experiences.  
-
----
-
-## 📂 Repository Structure  
